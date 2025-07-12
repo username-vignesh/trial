@@ -1,0 +1,2 @@
+Controls the login and logout of users
+Has the highest order of priority
